@@ -8,5 +8,7 @@ images:
 - doc/img/PIC18F8xTQ8001A_top_big.jpg
 - doc/img/PIC18F8xTQ8001A_QRcode.png
 mark: 50
-tags: []
+tags:
+- mlab
+- mlab-module
 title: PIC18F8xTQ8001
