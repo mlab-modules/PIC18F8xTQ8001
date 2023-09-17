@@ -5,4 +5,5 @@ eda:
   type: kicad
 gerbers: hw/cam_profi/
 site: https://github.com/mlab-modules/PIC18F8xTQ8001
-summary: null
+summary: Module for work with PIC18F MCU in TQFP80 package. On PCB is a bias resistor
+  for Ethernet peripheral.

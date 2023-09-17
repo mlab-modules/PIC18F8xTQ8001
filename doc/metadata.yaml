@@ -1,4 +1,5 @@
-description: null
+description: Module for work with PIC18F MCU in TQFP80 package. On PCB is a bias resistor
+  for Ethernet peripheral.
 github_branch: PIC18F8xTQ8001A
 github_repo: PIC18F8xTQ8001
 github_url: https://github.com/mlab-modules/PIC18F8xTQ8001
